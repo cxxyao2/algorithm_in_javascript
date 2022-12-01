@@ -1,4 +1,4 @@
-# algorithm injavascript
+# algorithm in javascript
 ## list
 - quicksort
 - binary tree
